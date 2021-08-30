@@ -1,0 +1,79 @@
+{
+    "acupuncture": [
+           
+               
+                   {
+                       "id": 1,
+                       "name": "Beyond the Needle",
+                       "coordinates": [27.8588996031941, -82.63776156869245],
+                       "phone": "+17275210210",
+                       "link": "http://www.livewelltampabay.com/"
+                   },
+                   {
+                       "id": 2,
+                       "name": "Chinese acupuncture and herbal medicine of Tampa",
+                       "coordinates": [28.073601761514585, -82.52188632755237],
+                       "phone": "+18138737564",
+                       "link": "http://acupunctureherbalmed.com/"
+                   },
+                   {
+                       "id": 3,
+                       "name": "Purity Acupuncture & Holistic Wellness",
+                       "coordinates": [27.891490324946442, -82.72719608484307],
+                       "phone": "(727) 244-6915",
+                       "link": "https://purityacupuncture.com/"
+                   },
+                   {
+                       "id": 4,
+                       "name": "Florida Medical Clinic",
+                       "coordinates": [28.096465101057596, -82.49906003007317],
+                       "phone": "+18139731304",
+                       "link": "https://www.floridamedicalclinic.com/specialties/psychiatry-behavioral-health/acupuncture/"
+                   },
+                   {
+                       "id": 5,
+                       "name": "Dawn Potter Acupuncture",
+                       "coordinates": [28.032540103559146, -82.73408961217778],
+                       "phone": "+17274754710",
+                       "link": "https://www.acupuncturebydawn.com/"
+                   },
+                   {
+                       "id": 6,
+                       "name": "Dr Pedro Cordovez Acupuncture",
+                       "coordinates": [27.96534695062017, -82.79833955315121],
+                       "phone": "+1727-244-1890",
+                       "link": "https://drpedro.herokuapp.com/"
+                   },
+                   {
+                       "id": 7,
+                       "name": "Florida Advanced Acupuncture",
+                       "coordinates": [28.090132215927927, -82.50776801506778],
+                       "phone": "+18133848820",
+                       "link": "http://fullbodyacupuncture.com/"
+                   },
+                   {
+                       "id": 8,
+                       "name": "Acupuncture and Natural Therapies",
+                       "coordinates": [28.080439552344938, -82.49884162397639],
+                       "phone": "+18139682128",
+                       "link": "http://www.acupuncturenaturaltherapies.com/"
+                   },
+                   {
+                       "id": 9,
+                       "name":"BellaVive Natural Health Clinic",
+                       "coordinates": [28.080439552344938, -82.55720648880485],
+                       "phone": "+18132644392",
+                       "link": "http://www.bvclinic.com/"
+                   },
+                   {
+                       "id": 10,
+                       "name": "Integrative Medicine Center, Inc.",
+                       "coordinates": [28.082862800268092, -82.42262397696511],
+                       "phone": "+18139772677",
+                       "link": "http://www.imcfl.com/"
+                   }
+               
+           
+          
+       ]
+   }
